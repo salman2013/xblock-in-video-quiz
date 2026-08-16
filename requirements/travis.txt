@@ -12,7 +12,7 @@ cachetools==7.1.7
     #   tox
 certifi==2026.7.22
     # via requests
-charset-normalizer==3.4.9
+charset-normalizer==3.5.1
     # via requests
 colorama==0.4.6
     # via
@@ -26,7 +26,7 @@ distlib==0.4.3
     # via
     #   -r requirements/tox.txt
     #   virtualenv
-filelock==3.32.2
+filelock==3.32.3
     # via
     #   -r requirements/tox.txt
     #   python-discovery
@@ -43,7 +43,7 @@ packaging==26.3
     #   -r requirements/tox.txt
     #   pyproject-api
     #   tox
-platformdirs==4.11.2
+platformdirs==4.11.3
     # via
     #   -r requirements/tox.txt
     #   tox
@@ -58,7 +58,7 @@ pyproject-api==1.11.0
     # via
     #   -r requirements/tox.txt
     #   tox
-python-discovery==1.5.1
+python-discovery==1.5.2
     # via
     #   -r requirements/tox.txt
     #   tox
@@ -73,7 +73,7 @@ tomli-w==1.2.0
     # via
     #   -r requirements/tox.txt
     #   tox
-tox==4.59.0
+tox==4.60.0
     # via -r requirements/tox.txt
 typer==0.27.1
     # via coveralls
