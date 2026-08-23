@@ -32,7 +32,7 @@ filelock==3.32.3
     #   python-discovery
     #   tox
     #   virtualenv
-idna==3.18
+idna==3.19
     # via requests
 markdown-it-py==4.2.0
     # via rich
@@ -52,7 +52,7 @@ pluggy==1.6.0
     # via
     #   -r requirements/tox.txt
     #   tox
-pygments==2.20.0
+pygments==2.21.0
     # via rich
 pyproject-api==1.11.0
     # via
